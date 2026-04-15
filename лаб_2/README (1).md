@@ -31,3 +31,5 @@
 ### Комментарии
 Я работала как с WSL2, так и с UI Airflow, поэтому итоговый запуск DAG был проверен в браузере через интерфейс Airflow.
 <img width="2472" height="1340" alt="image" src="https://github.com/user-attachments/assets/74e708d3-4781-4961-b46c-f77ad3b46677" />
+<img width="2452" height="1328" alt="image" src="https://github.com/user-attachments/assets/c0e67399-243a-4bf5-83f9-67e3da9a9c43" />
+
